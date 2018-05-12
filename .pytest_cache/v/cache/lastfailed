@@ -1,0 +1,4 @@
+{
+  "test_index.py::test_answer": true,
+  "test_index.py::test_count_kmers": true
+}
